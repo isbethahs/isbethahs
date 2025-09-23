@@ -1,4 +1,4 @@
-## ¡Hola! Mi nombre es Isbeth Henandez 👋
+## ¡Hola! Mi nombre es Isbeth Hernández  👋
 
 <!--
 **isbethahs/isbethahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
