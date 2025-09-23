@@ -10,5 +10,6 @@
 - ❤️ Creo firmemente en el poder de los datos para generar impacto real en los negocios.
 
 ### Donde encontrarme:
-- [linkedin](//https://www.linkedin.com/in/isbeth-andrea-hernández-soto-)
-- [gmail](mailto:isbethahs@gmail.com)
+
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isbethahs@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isbeth-andrea-hernández-soto-)
