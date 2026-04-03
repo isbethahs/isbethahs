@@ -9,6 +9,11 @@
 - 🔎 Curiosa por naturaleza: disfruto aprender, experimentar y mejorar día a día.
 - ❤️ Creo firmemente en el poder de los datos para generar impacto real en los negocios.
 
+
+### Analista de Datos Junior | Python | SQL | Power BI | Excel
+
+### Transformo datos en decisiones de negocio mediante análisis, visualización y storytelling.
+
 ### 🛠️ Lenguajes y herramientas :
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
